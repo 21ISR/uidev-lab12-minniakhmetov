@@ -1,5 +1,5 @@
 :root {
-    --content-width: 400px;
+    --content-width: 500px;
 }
 
 * {
@@ -57,7 +57,7 @@ main {
     form {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
 
         input[type=text] {
             padding: 16px;
